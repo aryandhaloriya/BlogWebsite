@@ -7,6 +7,7 @@
     "install-server": "cd MernStack-Blog-App-backend && npm install",
     "start-server": "cd MernStack-Blog-App-backend && npm start",
     "install-clint": "cd MernStack-Blog-App-Frontend && npm install",
+    "build-clint": "cd MernStack-Blog-App-Frontend && npm run build"
     "start-clint": "cd MernStack-Blog-App-Frontend && npm start"
   },
   "repository": {
