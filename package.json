@@ -1,0 +1,23 @@
+{
+  "name": "mernstack-blog-app-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "cd MernStack-Blog-App-backend && npm install",
+    "start-server": "cd MernStack-Blog-App-backend && npm start",
+    "install-clint": "cd MernStack-Blog-App-Frontend && npm install",
+    "start-clint": "cd MernStack-Blog-App-Frontend && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aryandhaloriya/BlogWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aryandhaloriya/BlogWebsite/issues"
+  },
+  "homepage": "https://github.com/aryandhaloriya/BlogWebsite#readme"
+}
